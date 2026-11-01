@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-11-01T13:49:12.318986",
+  "claim_id": "CLM-2026-001892",
+  "request": {
+    "claim_id": "CLM-2026-001892",
+    "customer_id": "CUST-445521",
+    "customer_message": "I filed my car insurance claim three months ago after a collision on Highway 101. The incident report was filed on time, and I've provided all requested documentation. However, I haven't received any update on my claim status. When I call the support line, I'm put on hold for hours only to be told that my claim is still under review. This is unacceptable! I have medical bills piling up, and my car is still unfixed. I need someone in management to review this immediately. This is the worst customer service experience I've ever had with your company. I'm very frustrated and disappointed."
+  },
+  "response": {
+    "claim_id": "CLM-2026-001892",
+    "noul": "claim_complaint",
+    "choice": "manual_review",
+    "score": {
+      "legitimacy": 75,
+      "urgency": 70,
+      "risk": 40
+    },
+    "confidence": 100.0,
+    "reasoning": "Claim categorized as claim_complaint. Recommended action: manual_review. Legitimacy score: 75/100, Urgency: 70/100, Risk level: 40/100.",
+    "suggested_message": "Your claim requires manual review. We'll contact you shortly."
+  }
+}

@@ -1,0 +1,30 @@
+2026-11-01 13:13:10,892 - __main__ - INFO - [main.py:34] - ================================================================================
+2026-11-01 13:13:10,893 - __main__ - INFO - [main.py:35] - Starting Insurance Claim Complaint Processing with Jev
+2026-11-01 13:13:10,893 - __main__ - INFO - [main.py:36] - Environment: development
+2026-11-01 13:13:10,894 - __main__ - INFO - [main.py:37] - Timestamp: 2026-11-01T13:13:10.894036
+2026-11-01 13:13:10,894 - __main__ - INFO - [main.py:38] - ================================================================================
+2026-11-01 13:13:10,894 - src.jev_client - INFO - [jev_client.py:20] - Initialized JevClient with endpoint: http://localhost:8000/api/v1/jev
+2026-11-01 13:13:10,896 - src.services - INFO - [services.py:19] - Initialized ClaimProcessingService
+2026-11-01 13:13:10,896 - __main__ - INFO - [main.py:47] - 
+Processing Claim ID: CLM-2026-001892
+2026-11-01 13:13:10,896 - __main__ - INFO - [main.py:48] - Customer ID: CUST-445521
+2026-11-01 13:13:10,896 - src.services - INFO - [services.py:33] - Processing claim CLM-2026-001892 for customer CUST-445521
+2026-11-01 13:13:10,896 - src.jev_client - INFO - [jev_client.py:36] - Categorizing claim: CLM-2026-001892
+2026-11-01 13:13:10,897 - src.jev_client - INFO - [jev_client.py:43] - Successfully categorized claim: CLM-2026-001892
+2026-11-01 13:13:10,898 - src.services - INFO - [services.py:68] - Saved results to C:\Users\QBE\Downloads\GitHub Repos\JEV\results\claim_CLM-2026-001892.json
+2026-11-01 13:13:10,898 - __main__ - INFO - [main.py:83] - Claim processing completed successfully
+2026-11-01 13:49:12,316 - __main__ - INFO - [main.py:34] - ================================================================================
+2026-11-01 13:49:12,316 - __main__ - INFO - [main.py:35] - Starting Insurance Claim Complaint Processing with Jev
+2026-11-01 13:49:12,316 - __main__ - INFO - [main.py:36] - Environment: development
+2026-11-01 13:49:12,316 - __main__ - INFO - [main.py:37] - Timestamp: 2026-11-01T13:49:12.316896
+2026-11-01 13:49:12,317 - __main__ - INFO - [main.py:38] - ================================================================================
+2026-11-01 13:49:12,317 - src.jev_client - INFO - [jev_client.py:20] - Initialized JevClient with endpoint: http://localhost:8000/api/v1/jev
+2026-11-01 13:49:12,317 - src.services - INFO - [services.py:19] - Initialized ClaimProcessingService
+2026-11-01 13:49:12,317 - __main__ - INFO - [main.py:47] - 
+Processing Claim ID: CLM-2026-001892
+2026-11-01 13:49:12,318 - __main__ - INFO - [main.py:48] - Customer ID: CUST-445521
+2026-11-01 13:49:12,318 - src.services - INFO - [services.py:33] - Processing claim CLM-2026-001892 for customer CUST-445521
+2026-11-01 13:49:12,318 - src.jev_client - INFO - [jev_client.py:36] - Categorizing claim: CLM-2026-001892
+2026-11-01 13:49:12,318 - src.jev_client - INFO - [jev_client.py:43] - Successfully categorized claim: CLM-2026-001892
+2026-11-01 13:49:12,319 - src.services - INFO - [services.py:68] - Saved results to C:\Users\QBE\Downloads\GitHub Repos\JEV\results\claim_CLM-2026-001892.json
+2026-11-01 13:49:12,321 - __main__ - INFO - [main.py:83] - Claim processing completed successfully
